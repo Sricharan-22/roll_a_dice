@@ -28,7 +28,7 @@ CSS: Styling of the game interface.
 JavaScript: Game logic and interactivity.
 
 ## Installation
-git clone https://github.com/your-username/pig-game.git
+git link  : https://sricharan-22.github.io/roll_a_dice/
 
 Open the index.html file in your browser to start playing the game.
 
